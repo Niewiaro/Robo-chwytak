@@ -1,6 +1,6 @@
 # Robo-chwytak
 
-![GitHub](https://img.shields.io/github/license/[nazwa_użytkownika]/[nazwa_repozytorium]) ![GitHub](https://img.shields.io/badge/MATLAB-R2024a-blue)
+![GitHub](https://img.shields.io/github/license/Niewiaro/Robo-chwytak) ![GitHub](https://img.shields.io/badge/MATLAB-R2024a-blue)
 
 ## Spis Treści
 1. [Opis](#opis)
