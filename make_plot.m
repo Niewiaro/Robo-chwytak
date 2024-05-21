@@ -8,7 +8,7 @@ function make_plot(x, y, xlabel_str, ylabel_str, title_str, legend_str)
     % legend_str - legenda wykresu (opcjonalna)
 
     figure('Name', title_str, 'NumberTitle', 'off', 'Position', [0, 0, 840, 1100]); % Ustawienie rozmiaru wykresu
-    plot(x, y, 'LineWidth', 2); % Zwiększenie grubości linii
+    plot(x, abs(y), 'LineWidth', 2); % Zwiększenie grubości linii
     hold on;
     if nargin > 2
         xlabel(xlabel_str);
